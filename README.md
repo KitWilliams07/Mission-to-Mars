@@ -9,3 +9,5 @@ Once all of the data was scraped, the python "Flask" package was used to generat
 Overall this repo creates an easy to read resource for information on the most up to date news on humanities "Mission to Mars".
 
 A screenshot of the webpage is shown below. 
+
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Mission-to-Mars/main/Challenge/m2m.png)
